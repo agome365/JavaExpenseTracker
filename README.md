@@ -13,10 +13,4 @@ A simple, yet powerful, Java console-based application to help you efficiently m
 - **📈 View Spending Summary**: See total expenses or a breakdown by category in an intuitive summary.
 - **📂 Automatic Folder Opening**: After saving the expenses, the program automatically opens the folder for quick access to your saved files.
 
----
 
-## 🚀 Getting Started
-
-1. **Clone the repository** to your local machine:
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
